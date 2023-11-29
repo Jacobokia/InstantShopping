@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702045977721",
+    "project_id": "instantshopping-e0b92",
+    "storage_bucket": "instantshopping-e0b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702045977721:android:bbcb2924f1d5aa80c068a8",
+        "android_client_info": {
+          "package_name": "com.cobs.instantshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShC4_lwtpJpC0QhfUpcHMg_gRG9OZaZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
