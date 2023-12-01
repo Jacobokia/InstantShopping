@@ -3,8 +3,7 @@ package com.cobs.instantshopping.ui
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.cobs.instantshopping.R
-import com.cobs.instantshopping.UserModel
+import com.cobs.instantshopping.model.UserModel
 import com.cobs.instantshopping.databinding.ActivityOwnerBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DataSnapshot

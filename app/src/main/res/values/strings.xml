@@ -7,6 +7,7 @@
     <string name="first_name">Enter First Name</string>
     <string name="last_name">Enter Last Name</string>
     <string name="enter_your_email">Enter your Email</string>
+    <string name="login_text">Enter your credentials to login</string>
     <string name="enter_your_email_address">Enter your Email Address</string>
     <string name="enter_your_password">Enter your password</string>
     <string name="sign_up">Sign Up</string>
@@ -55,4 +56,9 @@
     <string name="enter_milk_description">Enter Milk Description</string>
     <string name="enter_milk_quantity">Enter Milk Quantity</string>
     <string name="enter_meat_name">Enter Meat Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="add_profile_image">Add profile image</string>
+    <string name="designed_with_love_by_cobs">Designed with love by Cobs</string>
 </resources>

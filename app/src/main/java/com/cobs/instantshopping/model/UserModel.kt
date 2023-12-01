@@ -1,7 +1,8 @@
-package com.cobs.instantshopping
+package com.cobs.instantshopping.model
 
 class UserModel {
     var id:String?=null
+    var image:String? = null
     var firstName: String? = null
     var lastName: String? = null
     var email: String? = null
@@ -11,6 +12,7 @@ class UserModel {
 
     constructor(
         id:String?,
+        image:String?,
         firstName: String?,
         lastName: String?,
         email: String?,
@@ -19,6 +21,7 @@ class UserModel {
         position: String = "Customer"
     ) {
         this.id = id
+        this.image = image
         this.firstName = firstName
         this.lastName = lastName
         this.email = email
